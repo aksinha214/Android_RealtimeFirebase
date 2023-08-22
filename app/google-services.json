@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660138489220",
+    "project_id": "orient-ca7a9",
+    "storage_bucket": "orient-ca7a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660138489220:android:bbb0e7d8cd720167e159d1",
+        "android_client_info": {
+          "package_name": "com.example.rtf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660138489220-pj3ofavt4us8ogm7qdcar7go4rnft4u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZTPcLdQN7x9BYSmp8C2ah_NzrFaCoqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660138489220-pj3ofavt4us8ogm7qdcar7go4rnft4u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
